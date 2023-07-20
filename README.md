@@ -1,7 +1,7 @@
 # Talabk
 Android food ordering app.<br>
 Demo video: 
-https://youtu.be/-bg7xCNa02I
+https://drive.google.com/file/d/1KtgX_F_fbpkbhElkkJeMYDf7yf4xQp15/view?usp=sharing
 <br>
 <br>
 <img src="Screenshots/Screenshot_2023-06-25-16-04-49-829_com.example.foodordering.jpg"  width="400" >
